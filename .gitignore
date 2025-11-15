@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+
+kaggle.json
+
+Screenshot from 2025-05-07 04-07-01.png
+Screenshot from 2025-05-07 04-08-24.png
+Screenshot from 2025-05-07 04-08-45.png
+Screenshot from 2025-05-07 04-09-06.png
+Screenshot from 2025-05-07 04-10-15.png
+Screenshot from 2025-05-07 04-09-38.png
+Screenshot from 2025-05-07 04-10-01.png
+crime_classification_flow_diagram(patent).png
+DLCP_ucfcrime.ipynb
+DLCP_updated.ipynb
+untitled22.py
+Project reports/projectReportTemplate_csaia.docx
+Project reports/from-2_TY18.docx
+DLcp_ucfcrime_final.html
